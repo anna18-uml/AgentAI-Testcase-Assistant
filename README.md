@@ -1,4 +1,4 @@
-# TechOmni
+# AgenticAI
 
 ## Prerequisites
 1. [Download and install Ollama](https://ollama.com/download).
