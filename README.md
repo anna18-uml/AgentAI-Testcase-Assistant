@@ -36,7 +36,3 @@
     ```bash
     streamlit run techomni.py
     ```
-
-## Sample Questions
-- **Question:** How to edit ES Net Network Interface card?
-- **Question:** What are the computer requirements for 4007 ES Panel Programmer?
